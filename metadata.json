@@ -1,11 +1,11 @@
 {
-  "name": "tca_puppet_lvm",
-  "version": "1.4.3",
+  "name": "tca_puppet-lvm",
+  "version": "1.4.4",
   "author": "puppetlabs",
   "summary": "Provides Puppet types and providers to manage Logical Resource Management (LVM) features.",
   "license": "GPL-2.0",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_lvm",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_lvm",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-lvm",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-lvm",
   "issues_url": "https://github.com/puppetlabs/puppetlabs-lvm",
   "dependencies": [
     {
