@@ -1,6 +1,6 @@
 {
   "name": "tca_puppet_lvm",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "author": "puppetlabs",
   "summary": "Provides Puppet types and providers to manage Logical Resource Management (LVM) features.",
   "license": "GPL-2.0",
